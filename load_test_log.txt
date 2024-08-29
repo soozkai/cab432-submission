@@ -1,0 +1,200 @@
+[2024-08-22T12:02:48.610Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test2.mov'
+[2024-08-22T12:02:48.612Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-22T12:02:48.614Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-22T12:02:48.617Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test2.mov'
+[2024-08-22T12:02:48.619Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-22T12:02:48.620Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-22T12:02:48.621Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-22T12:02:48.622Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-22T12:02:48.624Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-22T12:02:48.625Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-22T12:02:48.626Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test2.mov'
+[2024-08-22T12:02:48.627Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-22T12:02:48.628Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-22T12:02:48.630Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test2.mov'
+[2024-08-22T12:02:48.631Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-22T12:02:48.631Z] All requests completed
+[2024-08-22T12:03:24.932Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test2.mov'
+[2024-08-22T12:03:24.934Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-22T12:03:24.937Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-22T12:03:24.939Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-22T12:03:24.940Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test2.mov'
+[2024-08-22T12:03:24.941Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test2.mov'
+[2024-08-22T12:03:24.943Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-22T12:03:24.944Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-22T12:03:24.945Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-22T12:03:24.947Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test2.mov'
+[2024-08-22T12:03:24.948Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-22T12:03:24.949Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-22T12:03:24.950Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-22T12:03:24.951Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-22T12:03:24.952Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-22T12:03:24.953Z] All requests completed
+[2024-08-22T12:03:38.354Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\1724314055406.mov'
+[2024-08-22T12:03:38.361Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\1724314055406.mov'
+[2024-08-22T12:03:38.363Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\1724314055406.mov'
+[2024-08-22T12:03:38.365Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\1724314055406.mov'
+[2024-08-22T12:03:38.367Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\1724314055406.mov'
+[2024-08-22T12:03:38.368Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\1724314055406.mov'
+[2024-08-22T12:03:38.369Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\1724314055406.mov'
+[2024-08-22T12:03:39.149Z] Upload Error: [object Object]
+[2024-08-22T12:03:39.161Z] Upload Error: [object Object]
+[2024-08-22T12:03:39.173Z] Upload Error: [object Object]
+[2024-08-22T12:03:39.191Z] Upload Error: [object Object]
+[2024-08-22T12:03:39.206Z] Upload Error: [object Object]
+[2024-08-22T12:03:39.217Z] Upload Error: [object Object]
+[2024-08-22T12:03:39.223Z] Upload Error: [object Object]
+[2024-08-22T12:03:39.239Z] Upload Error: [object Object]
+[2024-08-22T12:03:39.239Z] All requests completed
+[2024-08-22T12:06:21.846Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\1724314055406.mov'
+[2024-08-22T12:06:21.852Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\1724314055406.mov'
+[2024-08-22T12:06:21.857Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\1724314055406.mov'
+[2024-08-22T12:06:21.860Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\1724314055406.mov'
+[2024-08-22T12:06:22.180Z] Upload Error: [object Object]
+[2024-08-22T12:06:22.186Z] Upload Error: [object Object]
+[2024-08-22T12:06:22.194Z] Upload Error: [object Object]
+[2024-08-22T12:06:22.205Z] Upload Error: [object Object]
+[2024-08-22T12:06:22.207Z] Upload Error: [object Object]
+[2024-08-22T12:06:22.221Z] Upload Error: [object Object]
+[2024-08-22T12:06:22.225Z] Upload Error: [object Object]
+[2024-08-22T12:06:22.243Z] Upload Error: [object Object]
+[2024-08-22T12:06:22.260Z] Upload Error: [object Object]
+[2024-08-22T12:06:22.263Z] Upload Error: [object Object]
+[2024-08-22T12:06:22.271Z] Upload Error: [object Object]
+[2024-08-22T12:06:22.271Z] All requests completed
+[2024-08-22T12:07:16.698Z] Upload Error: [object Object]
+[2024-08-22T12:07:16.700Z] Upload Error: [object Object]
+[2024-08-22T12:07:16.703Z] Upload Error: [object Object]
+[2024-08-22T12:07:16.716Z] Upload Error: [object Object]
+[2024-08-22T12:07:16.725Z] Upload Error: [object Object]
+[2024-08-22T12:07:16.726Z] Upload Error: [object Object]
+[2024-08-22T12:07:16.752Z] Upload Error: [object Object]
+[2024-08-22T12:07:16.774Z] Upload Error: [object Object]
+[2024-08-22T12:07:16.791Z] Upload Error: [object Object]
+[2024-08-22T12:07:16.797Z] Upload Error: [object Object]
+[2024-08-22T12:07:16.809Z] Upload Error: [object Object]
+[2024-08-22T12:07:16.811Z] Upload Error: [object Object]
+[2024-08-22T12:07:16.814Z] Upload Error: [object Object]
+[2024-08-22T12:07:16.819Z] Upload Error: [object Object]
+[2024-08-22T12:07:16.824Z] Upload Error: [object Object]
+[2024-08-22T12:07:16.825Z] All requests completed
+[2024-08-23T13:46:36.986Z] Upload Error: [object Object]
+[2024-08-23T13:46:37.037Z] Upload Error: [object Object]
+[2024-08-23T13:46:50.389Z] Upload Error: [object Object]
+[2024-08-23T13:46:50.420Z] Upload Error: [object Object]
+[2024-08-23T13:46:50.496Z] Upload Error: [object Object]
+[2024-08-23T13:46:50.497Z] Upload Error: [object Object]
+[2024-08-23T13:46:50.581Z] Upload Error: [object Object]
+[2024-08-23T13:46:50.582Z] Upload Error: [object Object]
+[2024-08-23T13:46:50.691Z] Upload Error: [object Object]
+[2024-08-23T13:46:50.692Z] Upload Error: [object Object]
+[2024-08-23T13:46:50.693Z] All requests completed
+[2024-08-24T10:32:25.061Z] Upload Success: videos\1724495542076.mov
+[2024-08-24T10:32:25.074Z] Upload Success: videos\1724495542075.mov
+[2024-08-24T10:32:25.076Z] Upload Success: videos\1724495542085.mov
+[2024-08-24T10:32:25.083Z] Upload Success: videos\1724495542072.mov
+[2024-08-24T10:32:25.240Z] Process Error: [object Object]
+[2024-08-24T10:32:25.274Z] Process Error: [object Object]
+[2024-08-24T10:32:25.323Z] Process Error: [object Object]
+[2024-08-24T10:32:25.340Z] Process Error: [object Object]
+[2024-08-24T10:32:25.906Z] Upload Success: videos\1724495542081.mp4
+[2024-08-24T10:32:25.909Z] Upload Success: videos\1724495542084.mp4
+[2024-08-24T10:32:25.927Z] Upload Success: videos\1724495542079.mp4
+[2024-08-24T10:32:25.928Z] Upload Success: videos\1724495542074.mp4
+[2024-08-24T10:32:25.930Z] Upload Success: videos\1724495542078.mp4
+[2024-08-24T10:32:25.932Z] Upload Success: videos\1724495542082.mp4
+[2024-08-24T10:32:26.054Z] Process Error: [object Object]
+[2024-08-24T10:32:26.061Z] Process Error: [object Object]
+[2024-08-24T10:32:26.085Z] Process Error: [object Object]
+[2024-08-24T10:32:26.123Z] Process Error: [object Object]
+[2024-08-24T10:32:26.376Z] Process Error: [object Object]
+[2024-08-24T10:32:26.414Z] Process Error: [object Object]
+[2024-08-24T10:32:26.414Z] All requests completed
+[2024-08-24T10:32:34.419Z] Upload Success: videos\1724495552033.mov
+[2024-08-24T10:32:34.425Z] Upload Success: videos\1724495552038.mov
+[2024-08-24T10:32:34.542Z] Process Error: [object Object]
+[2024-08-24T10:32:34.826Z] Process Error: [object Object]
+[2024-08-24T10:32:35.221Z] Upload Success: videos\1724495552034.mp4
+[2024-08-24T10:32:35.225Z] Upload Success: videos\1724495552033.mp4
+[2024-08-24T10:32:35.238Z] Upload Success: videos\1724495552029.mp4
+[2024-08-24T10:32:35.240Z] Upload Success: videos\1724495552038.mp4
+[2024-08-24T10:32:35.243Z] Upload Success: videos\1724495552031.mp4
+[2024-08-24T10:32:35.278Z] Upload Success: videos\1724495552035.mp4
+[2024-08-24T10:32:35.289Z] Upload Success: videos\1724495552037.mp4
+[2024-08-24T10:32:35.291Z] Upload Success: videos\1724495552036.mp4
+[2024-08-24T10:32:35.366Z] Process Error: [object Object]
+[2024-08-24T10:32:35.391Z] Process Error: [object Object]
+[2024-08-24T10:32:35.392Z] Process Error: [object Object]
+[2024-08-24T10:32:35.411Z] Process Error: [object Object]
+[2024-08-24T10:32:35.436Z] Process Error: [object Object]
+[2024-08-24T10:32:35.437Z] Process Error: [object Object]
+[2024-08-24T10:32:35.501Z] Process Error: [object Object]
+[2024-08-24T10:32:35.849Z] Process Error: [object Object]
+[2024-08-24T10:32:35.850Z] All requests completed
+[2024-08-24T10:32:44.017Z] Upload Success: videos\1724495562030.mov
+[2024-08-24T10:32:44.023Z] Upload Success: videos\1724495562033.mov
+[2024-08-24T10:32:44.024Z] Upload Success: videos\1724495562031.mov
+[2024-08-24T10:32:44.039Z] Upload Success: videos\1724495562034.mov
+[2024-08-24T10:32:44.041Z] Upload Success: videos\1724495562029.mov
+[2024-08-24T10:32:44.042Z] Upload Success: videos\1724495562029.mov
+[2024-08-24T10:32:44.237Z] Process Error: [object Object]
+[2024-08-24T10:32:44.241Z] Process Error: [object Object]
+[2024-08-24T10:32:44.422Z] Process Error: [object Object]
+[2024-08-24T10:32:44.452Z] Process Error: [object Object]
+[2024-08-24T10:32:44.504Z] Upload Success: videos\1724495562032.mp4
+[2024-08-24T10:32:44.510Z] Upload Success: videos\1724495562027.mp4
+[2024-08-24T10:32:44.517Z] Upload Success: videos\1724495562033.mp4
+[2024-08-24T10:32:44.519Z] Upload Success: videos\1724495562026.mp4
+[2024-08-24T10:32:44.575Z] Process Error: [object Object]
+[2024-08-24T10:32:44.582Z] Process Error: [object Object]
+[2024-08-24T10:32:44.635Z] Process Error: [object Object]
+[2024-08-24T10:32:44.648Z] Process Error: [object Object]
+[2024-08-24T10:32:44.814Z] Process Error: [object Object]
+[2024-08-24T10:32:44.874Z] Process Error: [object Object]
+[2024-08-24T10:32:44.875Z] All requests completed
+[2024-08-24T10:36:02.662Z] Upload Success: videos\1724495754209.mov
+[2024-08-24T10:36:02.668Z] Upload Success: videos\1724495754207.mov
+[2024-08-24T10:36:02.674Z] Upload Success: videos\1724495754208.mov
+[2024-08-24T10:36:02.676Z] Upload Success: videos\1724495754208.mov
+[2024-08-24T10:36:02.703Z] Upload Success: videos\1724495754211.mov
+[2024-08-24T10:36:02.738Z] Upload Success: videos\1724495754212.mov
+[2024-08-24T10:36:02.824Z] Process Error: [object Object]
+[2024-08-24T10:36:02.858Z] Process Error: [object Object]
+[2024-08-24T10:36:02.860Z] Process Error: [object Object]
+[2024-08-24T10:36:02.911Z] Process Error: [object Object]
+[2024-08-24T10:36:02.913Z] Process Error: [object Object]
+[2024-08-24T10:36:03.130Z] Process Error: [object Object]
+[2024-08-24T10:36:04.423Z] Upload Success: videos\1724495754210.mp4
+[2024-08-24T10:36:04.428Z] Upload Success: videos\1724495754210.mp4
+[2024-08-24T10:36:04.561Z] Upload Success: videos\1724495754209.mp4
+[2024-08-24T10:36:04.563Z] Upload Success: videos\1724495754211.mp4
+[2024-08-24T10:36:04.914Z] Process Error: [object Object]
+[2024-08-24T10:36:04.946Z] Process Error: [object Object]
+[2024-08-24T10:36:05.067Z] Process Error: [object Object]
+[2024-08-24T10:36:05.101Z] Process Error: [object Object]
+[2024-08-24T10:36:05.102Z] All requests completed
+[2024-08-24T10:36:05.865Z] Upload Success: videos\1724495762791.mov
+[2024-08-24T10:36:05.869Z] Upload Success: videos\1724495762798.mov
+[2024-08-24T10:36:05.907Z] Upload Success: videos\1724495762779.mov
+[2024-08-24T10:36:05.908Z] Upload Success: videos\1724495762801.mov
+[2024-08-24T10:36:05.910Z] Upload Success: videos\1724495762799.mov
+[2024-08-24T10:36:05.995Z] Process Error: [object Object]
+[2024-08-24T10:36:06.088Z] Process Error: [object Object]
+[2024-08-24T10:36:06.091Z] Process Error: [object Object]
+[2024-08-24T10:36:06.335Z] Process Error: [object Object]
+[2024-08-24T10:36:06.345Z] Process Error: [object Object]
+[2024-08-24T10:36:07.061Z] Upload Success: videos\1724495762802.mp4
+[2024-08-24T10:36:07.137Z] Upload Success: videos\1724495762777.mp4
+[2024-08-24T10:36:07.140Z] Upload Success: videos\1724495762780.mp4
+[2024-08-24T10:36:07.143Z] Upload Success: videos\1724495762782.mp4
+[2024-08-24T10:36:07.145Z] Upload Success: videos\1724495762797.mp4
+[2024-08-24T10:36:07.228Z] Process Error: [object Object]
+[2024-08-24T10:36:07.229Z] Process Error: [object Object]
+[2024-08-24T10:36:07.231Z] Process Error: [object Object]
+[2024-08-24T10:36:07.549Z] Process Error: [object Object]
+[2024-08-24T10:36:07.719Z] Process Error: [object Object]
+[2024-08-24T10:36:07.719Z] All requests completed
+[2024-08-24T10:36:28.948Z] Upload Success: videos\1724495772796.mov
+[2024-08-24T10:36:29.869Z] Upload Success: videos\1724495772795.mov
+[2024-08-24T10:36:35.453Z] Process Error: [object Object]
+[2024-08-24T10:36:35.790Z] Process Error: [object Object]
