@@ -4,6 +4,7 @@ const ffmpeg = require('fluent-ffmpeg');
 const path = require('path');
 const fs = require('fs');
 const jwt = require('jsonwebtoken');
+const js2xmlparser = require('js2xmlparser');
 // Login Logic
 exports.login = async (req, res) => {
     const { username, password } = req.body;
@@ -11,7 +12,7 @@ exports.login = async (req, res) => {
         const user = await User.findOne({ where: { username, password } });
         if (user) {
             // Generate a JWT token
-            const token = jwt.sign({ id: user.id, username: user.username }, process.env.JWT_SECRET, { expiresIn: '1h' });
+            const token = jwt.sign({ id: user.id, username: user.username }, process.env.JWT_SECRET, { expiresIn: '24h' });
             return res.status(200).json({ success: true, message: 'Login successful', token });
         } else {
             return res.status(401).json({ success: false, message: 'Invalid credentials' });
@@ -48,41 +49,61 @@ exports.uploadVideo = async (req, res) => {
 // Process Video Logic
 exports.processVideo = async (req, res) => {
     const { videoPath, format, compressionLevel, username } = req.body;
+  
     try {
-        const user = await User.findOne({ where: { username } });
-        if (!user) return res.status(404).json({ success: false, message: 'User not found' });
-
-        const video = await Video.findOne({ where: { originalPath: videoPath, userId: user.id } });
-        if (!video) return res.status(404).json({ success: false, message: 'Video not found' });
-
-        const outputPath = `../videos/compressed-${Date.now()}.${format}`;
-        const bitrate = { low: '500k', medium: '1000k', high: '1500k' };
-
-        if (!fs.existsSync('./videos')) fs.mkdirSync('./videos');
-
-        res.status(202).json({ success: true, videoId: video.id });
-
-        ffmpeg(video.originalPath)
-            .outputOptions([`-b:v ${bitrate[compressionLevel]}`, `-b:a 128k`, `-vf scale=1920:1080`, `-vcodec libx264`])
-            .output(outputPath)
-            .on('progress', async (progress) => {
-                video.processingProgress = progress.percent;
-                await video.save();
-            })
-            .on('end', async () => {
-                video.processedPath = outputPath;
-                video.processingProgress = 100;
-                await video.save();
-            })
-            .on('error', (err) => {
-                console.error('Error processing video:', err);
-            })
-            .run();
+      const user = await User.findOne({ where: { username } });
+      if (!user) return res.status(404).json({ success: false, message: 'User not found' });
+  
+      const video = await Video.findOne({ where: { originalPath: videoPath, userId: user.id } });
+      if (!video) return res.status(404).json({ success: false, message: 'Video not found' });
+  
+      const outputPath = `./videos/compressed-${Date.now()}.${format}`;
+      const bitrate = { low: '500k', medium: '1000k', high: '1500k' };
+  
+      if (!fs.existsSync('./videos')) fs.mkdirSync('./videos');
+      console.log(video.id);
+  
+      // Send videoId back to the client first
+      res.json({ success: true, videoId: video.id });
+  
+      ffmpeg(video.originalPath)
+        .outputOptions([
+          `-b:v ${bitrate[compressionLevel]}`,
+          `-b:a 128k`,
+          `-vf scale=1920:1080`,
+          `-vcodec libx264`
+        ])
+        .output(outputPath)
+        .on('progress', async (progress) => {
+          try {
+            console.log(`Progress: ${progress.percent}%`);
+            video.processingProgress = progress.percent; // Update the progress in the database
+            await video.save(); // Save the progress to the database
+            console.log('Progress saved successfully');
+          } catch (error) {
+            console.error('Error saving progress:', error); // Log any errors during saving
+          }
+        })
+        .on('end', async () => {
+          try {
+            console.log('Processing completed.');
+            video.processedPath = outputPath;
+            video.processingProgress = 100; // Set progress to 100% on completion
+            await video.save();
+            console.log('Final save completed successfully');
+          } catch (error) {
+            console.error('Error saving final progress:', error); // Log any errors during saving
+          }
+        })
+        .on('error', (err) => {
+          console.error('Error processing video:', err);
+        })
+        .run();
     } catch (error) {
-        return res.status(500).json({ success: false, message: 'Server error' });
+      console.error('Error processing video:', error);
+      res.status(500).json({ success: false, message: 'Server error' });
     }
-};
-
+  };
 // Get Video Progress Logic
 exports.getVideoProgress = async (req, res) => {
     const { videoId } = req.params;

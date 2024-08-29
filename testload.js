@@ -2,21 +2,21 @@ const axios = require('axios');
 const fs = require('fs');
 const FormData = require('form-data');
 
-// Function to log messages to a file
 function logMessage(message) {
     const timestamp = new Date().toISOString();
     fs.appendFileSync('load_test_log.txt', `[${timestamp}] ${message}\n`);
 }
 
-// Function to send a single upload request
-async function uploadVideo(videoPath) {
+async function uploadVideo(videoPath, token, username) {
     try {
         const form = new FormData();
         form.append('video', fs.createReadStream(videoPath));
+        form.append('username', username); // Add username to the form data
 
-        const response = await axios.post('http://localhost:5000/api/upload', form, {
+        const response = await axios.post('http://3.26.37.125:5000/api/upload', form, {
             headers: {
-                ...form.getHeaders()
+                ...form.getHeaders(),
+                'Authorization': `Bearer ${token}`
             }
         });
         logMessage(`Upload Success: ${response.data.videoPath}`);
@@ -27,13 +27,17 @@ async function uploadVideo(videoPath) {
     }
 }
 
-// Function to send a single processing request
-async function processVideo(videoPath, format, compressionLevel) {
+async function processVideo(videoPath, format, compressionLevel, token, username) {
     try {
-        const response = await axios.post('http://localhost:5000/api/process', {
+        const response = await axios.post('http://3.26.37.125:5000/api/process', {
             videoPath,
             format,
-            compressionLevel
+            compressionLevel,
+            username // Include username in the request body
+        }, {
+            headers: {
+                'Authorization': `Bearer ${token}`
+            }
         });
         logMessage(`Process Success: ${response.data.videoPath}`);
     } catch (error) {
@@ -41,41 +45,40 @@ async function processVideo(videoPath, format, compressionLevel) {
     }
 }
 
-// Function to simulate multiple users with different preferences in parallel
-async function simulateLoad(concurrentUsers) {
+async function simulateLoad(concurrentUsers, token) {
     const videoOptions = [
-        { videoPath: './videos/test1.mp4', format: 'mp4', compressionLevel: 'high' },
-        { videoPath: './videos/test2.mov', format: 'mov', compressionLevel: 'low' },
-        { videoPath: './videos/test1.mp4', format: 'mp4', compressionLevel: 'medium' },
+        { videoPath: './videos/IFB330.mp4', format: 'mp4', compressionLevel: 'high' },
+        { videoPath: './videos/IFB330.mp4', format: 'mp4', compressionLevel: 'medium' },
     ];
+
+    const username = 'testuser'; // Replace with the actual username if needed
 
     const promises = [];
     for (let i = 0; i < concurrentUsers; i++) {
         const randomOption = videoOptions[Math.floor(Math.random() * videoOptions.length)];
-        const uploadPromise = uploadVideo(randomOption.videoPath).then((videoPath) => {
+        const uploadPromise = uploadVideo(randomOption.videoPath, token, username).then((videoPath) => {
             if (videoPath) {
-                return processVideo(videoPath, randomOption.format, randomOption.compressionLevel);
+                return processVideo(videoPath, randomOption.format, randomOption.compressionLevel, token, username);
             }
         });
         promises.push(uploadPromise);
     }
 
-    // Execute all upload and process requests in parallel
     await Promise.all(promises);
     logMessage('All requests completed');
 }
 
-// Function to run the load simulation every few seconds for 10 minutes
-function runLoadTestFor10Minutes() {
+function runLoadTestFor10Minutes(token) {
     const interval = setInterval(() => {
-        simulateLoad(10); // Adjust this number based on the desired load
-    }, 10000); // Adjust the interval timing (10 seconds)
+        simulateLoad(10, token);
+    }, 10000);
 
     setTimeout(() => {
         clearInterval(interval);
         logMessage('Load test completed after 10 minutes.');
-    }, 10 * 60 * 1000); // Run for 10 minutes (10 * 60 * 1000 ms)
+    }, 10 * 60 * 1000);
 }
 
-// Start the 10-minute load test
-runLoadTestFor10Minutes();
+// Start the 10-minute load test with a token passed in
+const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJ0ZXN0dXNlciIsImlhdCI6MTcyNDk0MDY1MSwiZXhwIjoxNzI1MDI3MDUxfQ.Nve31Q0xKRYnwPFFhdbJQ4i2MEBDT_9Uhr6FGvL8KcU';
+runLoadTestFor10Minutes(token);

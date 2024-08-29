@@ -3,10 +3,9 @@ const path = require('path');
 
 // Define storage settings for multer
 const storage = multer.diskStorage({
-  destination: '../videos',
+  destination: path.join(__dirname, '../videos'), 
   filename: (req, file, cb) => {
-    const originalFilename = file.originalname;
-    cb(null, originalFilename);
+    cb(null, file.originalname);
   }
 });
 

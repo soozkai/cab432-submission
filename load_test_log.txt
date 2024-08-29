@@ -198,3 +198,475 @@
 [2024-08-24T10:36:29.869Z] Upload Success: videos\1724495772795.mov
 [2024-08-24T10:36:35.453Z] Process Error: [object Object]
 [2024-08-24T10:36:35.790Z] Process Error: [object Object]
+[2024-08-29T13:56:15.451Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:15.452Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:15.454Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:15.456Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:15.456Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:15.458Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:15.459Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:15.460Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:15.461Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:15.463Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:15.475Z] All requests completed
+[2024-08-29T13:56:25.445Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:25.446Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:25.447Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:25.448Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:25.448Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:25.449Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:25.449Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:25.450Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:25.453Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:25.454Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:25.457Z] All requests completed
+[2024-08-29T13:56:35.445Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:35.447Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:35.447Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:35.448Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:35.450Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:35.451Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:35.452Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:35.453Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:35.453Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:35.454Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:35.454Z] All requests completed
+[2024-08-29T13:56:45.445Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:45.447Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:45.447Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:45.448Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:45.448Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:45.449Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:45.449Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:45.450Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:45.450Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:45.453Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:45.457Z] All requests completed
+[2024-08-29T13:56:55.445Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:55.446Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:55.447Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:55.448Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:55.448Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:55.449Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:55.449Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:55.450Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:55.450Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:55.451Z] Upload Error: localStorage is not defined
+[2024-08-29T13:56:55.458Z] All requests completed
+[2024-08-29T13:57:05.445Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:05.445Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:05.446Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:05.446Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:05.447Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:05.447Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:05.448Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:05.448Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:05.448Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:05.449Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:05.449Z] All requests completed
+[2024-08-29T13:57:15.445Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:15.446Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:15.447Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:15.447Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:15.463Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:15.463Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:15.464Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:15.464Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:15.465Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:15.465Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:15.466Z] All requests completed
+[2024-08-29T13:57:25.447Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:25.447Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:25.448Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:25.448Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:25.449Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:25.449Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:25.450Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:25.450Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:25.451Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:25.451Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:25.452Z] All requests completed
+[2024-08-29T13:57:35.447Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:35.448Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:35.449Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:35.452Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:35.452Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:35.453Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:35.453Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:35.454Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:35.454Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:35.455Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:35.456Z] All requests completed
+[2024-08-29T13:57:45.448Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:45.449Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:45.449Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:45.450Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:45.450Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:45.451Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:45.451Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:45.452Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:45.452Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:45.452Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:45.453Z] All requests completed
+[2024-08-29T13:57:55.447Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:55.448Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:55.455Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:55.456Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:55.458Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:55.458Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:55.459Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:55.459Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:55.460Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:55.460Z] Upload Error: localStorage is not defined
+[2024-08-29T13:57:55.461Z] All requests completed
+[2024-08-29T13:58:05.447Z] Upload Error: localStorage is not defined
+[2024-08-29T13:58:05.448Z] Upload Error: localStorage is not defined
+[2024-08-29T13:58:05.450Z] Upload Error: localStorage is not defined
+[2024-08-29T13:58:05.450Z] Upload Error: localStorage is not defined
+[2024-08-29T13:58:05.451Z] Upload Error: localStorage is not defined
+[2024-08-29T13:58:05.451Z] Upload Error: localStorage is not defined
+[2024-08-29T13:58:05.451Z] Upload Error: localStorage is not defined
+[2024-08-29T13:58:05.452Z] Upload Error: localStorage is not defined
+[2024-08-29T13:58:05.452Z] Upload Error: localStorage is not defined
+[2024-08-29T13:58:05.453Z] Upload Error: localStorage is not defined
+[2024-08-29T13:58:05.453Z] All requests completed
+[2024-08-29T13:58:15.448Z] Upload Error: localStorage is not defined
+[2024-08-29T13:58:15.448Z] Upload Error: localStorage is not defined
+[2024-08-29T13:58:15.449Z] Upload Error: localStorage is not defined
+[2024-08-29T13:58:15.450Z] Upload Error: localStorage is not defined
+[2024-08-29T13:58:15.450Z] Upload Error: localStorage is not defined
+[2024-08-29T13:58:15.451Z] Upload Error: localStorage is not defined
+[2024-08-29T13:58:15.451Z] Upload Error: localStorage is not defined
+[2024-08-29T13:58:15.451Z] Upload Error: localStorage is not defined
+[2024-08-29T13:58:15.452Z] Upload Error: localStorage is not defined
+[2024-08-29T13:58:15.452Z] Upload Error: localStorage is not defined
+[2024-08-29T13:58:15.453Z] All requests completed
+[2024-08-29T13:58:25.447Z] Upload Error: localStorage is not defined
+[2024-08-29T13:58:25.448Z] Upload Error: localStorage is not defined
+[2024-08-29T13:58:25.449Z] Upload Error: localStorage is not defined
+[2024-08-29T13:58:25.450Z] Upload Error: localStorage is not defined
+[2024-08-29T13:58:25.450Z] Upload Error: localStorage is not defined
+[2024-08-29T13:58:25.455Z] Upload Error: localStorage is not defined
+[2024-08-29T13:58:25.456Z] Upload Error: localStorage is not defined
+[2024-08-29T13:58:25.456Z] Upload Error: localStorage is not defined
+[2024-08-29T13:58:25.457Z] Upload Error: localStorage is not defined
+[2024-08-29T13:58:25.457Z] Upload Error: localStorage is not defined
+[2024-08-29T13:58:25.458Z] All requests completed
+[2024-08-29T14:03:47.869Z] Upload Error: localStorage is not defined
+[2024-08-29T14:03:47.870Z] Upload Error: localStorage is not defined
+[2024-08-29T14:03:47.871Z] Upload Error: localStorage is not defined
+[2024-08-29T14:03:47.872Z] Upload Error: localStorage is not defined
+[2024-08-29T14:03:47.872Z] Upload Error: localStorage is not defined
+[2024-08-29T14:03:47.873Z] Upload Error: localStorage is not defined
+[2024-08-29T14:03:47.873Z] Upload Error: localStorage is not defined
+[2024-08-29T14:03:47.874Z] Upload Error: localStorage is not defined
+[2024-08-29T14:03:47.874Z] Upload Error: localStorage is not defined
+[2024-08-29T14:03:47.875Z] Upload Error: localStorage is not defined
+[2024-08-29T14:03:47.877Z] All requests completed
+[2024-08-29T14:03:57.868Z] Upload Error: localStorage is not defined
+[2024-08-29T14:03:57.869Z] Upload Error: localStorage is not defined
+[2024-08-29T14:03:57.869Z] Upload Error: localStorage is not defined
+[2024-08-29T14:03:57.870Z] Upload Error: localStorage is not defined
+[2024-08-29T14:03:57.870Z] Upload Error: localStorage is not defined
+[2024-08-29T14:03:57.871Z] Upload Error: localStorage is not defined
+[2024-08-29T14:03:57.871Z] Upload Error: localStorage is not defined
+[2024-08-29T14:03:57.872Z] Upload Error: localStorage is not defined
+[2024-08-29T14:03:57.872Z] Upload Error: localStorage is not defined
+[2024-08-29T14:03:57.872Z] Upload Error: localStorage is not defined
+[2024-08-29T14:03:57.873Z] All requests completed
+[2024-08-29T14:04:07.868Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:07.869Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:07.869Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:07.870Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:07.870Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:07.871Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:07.871Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:07.872Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:07.872Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:07.873Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:07.874Z] All requests completed
+[2024-08-29T14:04:17.867Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:17.868Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:17.869Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:17.870Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:17.870Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:17.871Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:17.871Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:17.882Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:17.883Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:17.883Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:17.884Z] All requests completed
+[2024-08-29T14:04:27.868Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:27.869Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:27.870Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:27.870Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:27.870Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:27.871Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:27.871Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:27.871Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:27.872Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:27.872Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:27.873Z] All requests completed
+[2024-08-29T14:04:37.868Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:37.868Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:37.869Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:37.869Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:37.870Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:37.871Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:37.872Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:37.872Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:37.872Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:37.873Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:37.873Z] All requests completed
+[2024-08-29T14:04:47.868Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:47.869Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:47.869Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:47.870Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:47.870Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:47.870Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:47.871Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:47.871Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:47.872Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:47.872Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:47.873Z] All requests completed
+[2024-08-29T14:04:57.869Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:57.870Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:57.872Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:57.873Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:57.873Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:57.874Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:57.874Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:57.875Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:57.875Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:57.876Z] Upload Error: localStorage is not defined
+[2024-08-29T14:04:57.876Z] All requests completed
+[2024-08-29T14:05:07.868Z] Upload Error: localStorage is not defined
+[2024-08-29T14:05:07.869Z] Upload Error: localStorage is not defined
+[2024-08-29T14:05:07.869Z] Upload Error: localStorage is not defined
+[2024-08-29T14:05:07.870Z] Upload Error: localStorage is not defined
+[2024-08-29T14:05:07.871Z] Upload Error: localStorage is not defined
+[2024-08-29T14:05:07.872Z] Upload Error: localStorage is not defined
+[2024-08-29T14:05:07.873Z] Upload Error: localStorage is not defined
+[2024-08-29T14:05:07.873Z] Upload Error: localStorage is not defined
+[2024-08-29T14:05:07.874Z] Upload Error: localStorage is not defined
+[2024-08-29T14:05:07.874Z] Upload Error: localStorage is not defined
+[2024-08-29T14:05:07.875Z] All requests completed
+[2024-08-29T14:11:32.313Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:11:32.315Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:11:32.316Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:11:32.316Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test2.mov'
+[2024-08-29T14:11:32.318Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:11:32.320Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test2.mov'
+[2024-08-29T14:11:32.321Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test2.mov'
+[2024-08-29T14:11:32.323Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:11:32.324Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:11:32.327Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:11:32.327Z] All requests completed
+[2024-08-29T14:11:42.269Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:11:42.270Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test2.mov'
+[2024-08-29T14:11:42.271Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:11:42.273Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:11:42.274Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:11:42.280Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test2.mov'
+[2024-08-29T14:11:42.282Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:11:42.283Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test2.mov'
+[2024-08-29T14:11:42.284Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:11:42.288Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test2.mov'
+[2024-08-29T14:11:42.288Z] All requests completed
+[2024-08-29T14:11:52.263Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:11:52.265Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test2.mov'
+[2024-08-29T14:11:52.266Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:11:52.272Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test2.mov'
+[2024-08-29T14:11:52.279Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test2.mov'
+[2024-08-29T14:11:52.279Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:11:52.280Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:11:52.280Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:11:52.281Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:11:52.282Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test2.mov'
+[2024-08-29T14:11:52.282Z] All requests completed
+[2024-08-29T14:12:02.268Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:12:02.268Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:12:02.269Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:12:02.269Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:12:02.270Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:12:02.271Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:12:02.271Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:12:02.272Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:12:02.272Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:12:02.276Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:12:02.277Z] All requests completed
+[2024-08-29T14:12:12.265Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test2.mov'
+[2024-08-29T14:12:12.267Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:12:12.268Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test2.mov'
+[2024-08-29T14:12:12.271Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:12:12.272Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:12:12.273Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:12:12.273Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:12:12.274Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:12:12.274Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:12:12.275Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:12:12.275Z] All requests completed
+[2024-08-29T14:12:22.266Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:12:22.268Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:12:22.269Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:12:22.271Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:12:22.273Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test2.mov'
+[2024-08-29T14:12:22.274Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:12:22.275Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:12:22.276Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:12:22.278Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:12:22.285Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:12:22.285Z] All requests completed
+[2024-08-29T14:12:32.268Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test2.mov'
+[2024-08-29T14:12:32.273Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:12:32.273Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:12:32.275Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:12:32.276Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:12:32.276Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:12:32.280Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:12:32.283Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test2.mov'
+[2024-08-29T14:12:32.284Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:12:32.285Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test2.mov'
+[2024-08-29T14:12:32.286Z] All requests completed
+[2024-08-29T14:12:42.267Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test2.mov'
+[2024-08-29T14:12:42.269Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:12:42.270Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test2.mov'
+[2024-08-29T14:12:42.272Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:12:42.275Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:12:42.276Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:12:42.277Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:12:42.278Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test2.mov'
+[2024-08-29T14:12:42.279Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:12:42.280Z] Upload Error: ENOENT: no such file or directory, open 'C:\Users\soozk\Desktop\cab432\videos\test1.mp4'
+[2024-08-29T14:12:42.280Z] All requests completed
+[2024-08-29T14:13:45.829Z] Upload Error: read ECONNRESET
+[2024-08-29T14:13:45.830Z] Upload Error: read ECONNRESET
+[2024-08-29T14:13:45.831Z] Upload Error: read ECONNRESET
+[2024-08-29T14:13:45.832Z] Upload Error: read ECONNRESET
+[2024-08-29T14:13:45.833Z] Upload Error: read ECONNRESET
+[2024-08-29T14:13:45.833Z] Upload Error: read ECONNRESET
+[2024-08-29T14:13:45.834Z] Upload Error: read ECONNRESET
+[2024-08-29T14:13:45.835Z] Upload Error: read ECONNRESET
+[2024-08-29T14:13:45.836Z] Upload Error: read ECONNRESET
+[2024-08-29T14:13:45.837Z] Upload Error: read ECONNRESET
+[2024-08-29T14:13:45.838Z] Upload Error: read ECONNRESET
+[2024-08-29T14:13:45.838Z] Upload Error: read ECONNRESET
+[2024-08-29T14:13:45.839Z] Upload Error: read ECONNRESET
+[2024-08-29T14:13:45.840Z] Upload Error: read ECONNRESET
+[2024-08-29T14:13:45.841Z] Upload Error: read ECONNRESET
+[2024-08-29T14:13:45.841Z] Upload Error: read ECONNRESET
+[2024-08-29T14:13:45.842Z] Upload Error: read ECONNRESET
+[2024-08-29T14:13:45.842Z] Upload Error: read ECONNRESET
+[2024-08-29T14:13:45.844Z] Upload Error: read ECONNRESET
+[2024-08-29T14:13:45.845Z] Upload Error: read ECONNRESET
+[2024-08-29T14:13:45.847Z] Upload Error: read ECONNRESET
+[2024-08-29T14:13:45.848Z] Upload Error: read ECONNRESET
+[2024-08-29T14:13:45.850Z] Upload Error: read ECONNRESET
+[2024-08-29T14:13:45.854Z] Upload Error: read ECONNRESET
+[2024-08-29T14:13:45.856Z] Upload Error: read ECONNRESET
+[2024-08-29T14:13:45.856Z] Upload Error: read ECONNRESET
+[2024-08-29T14:13:45.857Z] All requests completed
+[2024-08-29T14:13:45.857Z] Upload Error: read ECONNRESET
+[2024-08-29T14:13:45.858Z] Upload Error: read ECONNRESET
+[2024-08-29T14:13:45.859Z] Upload Error: read ECONNRESET
+[2024-08-29T14:13:45.860Z] Upload Error: read ECONNRESET
+[2024-08-29T14:13:45.860Z] Upload Error: read ECONNRESET
+[2024-08-29T14:13:45.860Z] All requests completed
+[2024-08-29T14:13:45.861Z] Upload Error: read ECONNRESET
+[2024-08-29T14:13:45.862Z] Upload Error: read ECONNRESET
+[2024-08-29T14:13:45.862Z] All requests completed
+[2024-08-29T14:13:45.863Z] Upload Error: read ECONNRESET
+[2024-08-29T14:13:45.863Z] Upload Error: read ECONNRESET
+[2024-08-29T14:13:45.864Z] Upload Error: read ECONNRESET
+[2024-08-29T14:13:45.865Z] Upload Error: read ECONNRESET
+[2024-08-29T14:13:45.865Z] Upload Error: read ECONNRESET
+[2024-08-29T14:13:45.867Z] Upload Error: read ECONNRESET
+[2024-08-29T14:13:45.867Z] Upload Error: read ECONNRESET
+[2024-08-29T14:13:45.868Z] All requests completed
+[2024-08-29T14:13:55.780Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:13:55.781Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:13:55.781Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:13:55.783Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:13:55.785Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:13:55.786Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:13:55.787Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:13:55.788Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:13:55.789Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:13:55.789Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:13:55.790Z] All requests completed
+[2024-08-29T14:14:05.784Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:14:05.784Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:14:05.785Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:14:05.789Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:14:05.791Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:14:05.792Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:14:05.793Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:14:05.794Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:14:05.795Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:14:05.795Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:14:05.795Z] All requests completed
+[2024-08-29T14:14:15.782Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:14:15.784Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:14:15.789Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:14:15.792Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:14:15.793Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:14:15.793Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:14:15.794Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:14:15.796Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:14:15.797Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:14:15.798Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:14:15.798Z] All requests completed
+[2024-08-29T14:14:25.786Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:14:25.787Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:14:25.789Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:14:25.791Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:14:25.791Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:14:25.792Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:14:25.793Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:14:25.795Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:14:25.796Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:14:25.797Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:14:25.797Z] All requests completed
+[2024-08-29T14:14:35.792Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:14:35.793Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:14:35.794Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:14:35.798Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:14:35.799Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:14:35.800Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:14:35.801Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:14:35.805Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:14:35.809Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:14:35.810Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:14:35.811Z] All requests completed
+[2024-08-29T14:27:29.518Z] Upload Success: C:\Users\soozk\Desktop\cab432\videos\IFB330.mp4
+[2024-08-29T14:27:29.524Z] Upload Success: C:\Users\soozk\Desktop\cab432\videos\IFB330.mp4
+[2024-08-29T14:27:29.526Z] Upload Success: C:\Users\soozk\Desktop\cab432\videos\IFB330.mp4
+[2024-08-29T14:27:29.545Z] Upload Success: C:\Users\soozk\Desktop\cab432\videos\IFB330.mp4
+[2024-08-29T14:27:29.549Z] Upload Success: C:\Users\soozk\Desktop\cab432\videos\IFB330.mp4
+[2024-08-29T14:27:29.578Z] Upload Success: C:\Users\soozk\Desktop\cab432\videos\IFB330.mp4
+[2024-08-29T14:27:29.581Z] Upload Success: C:\Users\soozk\Desktop\cab432\videos\IFB330.mp4
+[2024-08-29T14:27:29.597Z] Upload Success: C:\Users\soozk\Desktop\cab432\videos\IFB330.mp4
+[2024-08-29T14:27:29.600Z] Upload Success: C:\Users\soozk\Desktop\cab432\videos\IFB330.mp4
+[2024-08-29T14:27:29.612Z] Process Success: undefined
+[2024-08-29T14:27:29.616Z] Process Success: undefined
+[2024-08-29T14:27:29.619Z] Process Success: undefined
+[2024-08-29T14:27:29.621Z] Process Success: undefined
+[2024-08-29T14:27:29.625Z] Process Success: undefined
+[2024-08-29T14:27:29.628Z] Process Success: undefined
+[2024-08-29T14:27:29.629Z] Upload Success: C:\Users\soozk\Desktop\cab432\videos\IFB330.mp4
+[2024-08-29T14:27:29.644Z] Process Success: undefined
+[2024-08-29T14:27:29.649Z] Process Success: undefined
+[2024-08-29T14:27:29.651Z] Process Success: undefined
+[2024-08-29T14:27:29.697Z] Process Success: undefined
+[2024-08-29T14:27:29.698Z] All requests completed
+[2024-08-29T14:27:40.119Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:27:40.121Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:27:40.122Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:27:40.122Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:27:40.123Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:27:40.124Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:27:40.124Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:27:40.127Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:27:40.128Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:27:40.128Z] Upload Error: connect ECONNREFUSED ::1:5000
+[2024-08-29T14:27:40.129Z] All requests completed
