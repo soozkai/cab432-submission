@@ -1,7 +1,7 @@
 const axios = require('axios');
 const fs = require('fs');
 const FormData = require('form-data');
-
+const username = 'testuser'; 
 function logMessage(message) {
     const timestamp = new Date().toISOString();
     fs.appendFileSync('load_test_log.txt', `[${timestamp}] ${message}\n`);
@@ -11,7 +11,7 @@ async function uploadVideo(videoPath, token, username) {
     try {
         const form = new FormData();
         form.append('video', fs.createReadStream(videoPath));
-        form.append('username', username); // Add username to the form data
+        form.append('username', username); 
 
         const response = await axios.post('http://3.26.37.125:5000/api/upload', form, {
             headers: {
@@ -33,7 +33,7 @@ async function processVideo(videoPath, format, compressionLevel, token, username
             videoPath,
             format,
             compressionLevel,
-            username // Include username in the request body
+            username 
         }, {
             headers: {
                 'Authorization': `Bearer ${token}`
@@ -51,7 +51,7 @@ async function simulateLoad(concurrentUsers, token) {
         { videoPath: './videos/IFB330.mp4', format: 'mp4', compressionLevel: 'medium' },
     ];
 
-    const username = 'testuser'; // Replace with the actual username if needed
+
 
     const promises = [];
     for (let i = 0; i < concurrentUsers; i++) {
