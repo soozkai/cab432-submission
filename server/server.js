@@ -1,7 +1,7 @@
 require('dotenv').config();
 
 const express = require('express');
-const upload = require('../middleware/multer'); // Assuming multer setup is here
+const upload = require('../middleware/multer');
 const videoController = require('../controller/videoController');
 const path = require('path');
 const fs = require('fs');
@@ -11,26 +11,33 @@ const sequelize = require('../config/database');
 const videoRouter = require('../router');
 const compression = require('compression');
 const app = express();
+
+// CORS configuration
+const allowedOrigins = [
+    'http://11409240-at1.s3-website-ap-southeast-2.amazonaws.com',
+    'http://localhost:3000'
+];
+
 app.use(cors({
-  origin: 'http://localhost:3000',
+  origin: 'http://11409240-at1.s3-website-ap-southeast-2.amazonaws.com',
   methods: ['GET', 'POST', 'PUT', 'DELETE'],
-  allowedHeaders: ['Content-Type', 'Authorization'], 
-  credentials: true 
+  allowedHeaders: ['Content-Type', 'Authorization'],
+  credentials: true
 }));
 app.use(compression());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use('/videos', express.static(path.join(__dirname, '../videos')));
-dotenv.config(); 
+dotenv.config();
 
 const port = process.env.PORT || 5000;
 
 
 // Static files
-app.use('/videos', express.static(path.join(__dirname, 'videos'))); // Serve video files statically
+app.use('/videos', express.static(path.join(__dirname, 'videos')));
 
 // Use the router
-app.use('/api', videoRouter); 
+app.use('/api', videoRouter);
 
 
 // Connect to the database and start the server
@@ -41,3 +48,5 @@ sequelize.sync().then(() => {
 }).catch((err) => {
     console.error('Failed to connect to the database:', err);
 });
+
+
